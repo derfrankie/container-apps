@@ -605,5 +605,15 @@
         "version": "1.1.1",
         "location": "https://hub.docker.com/r/arm64v8/irssi",
         "type": "docker"
+    },
+    {
+        "description": "Privileged shell",
+        "repository": "dockerhub",
+        "arch": "amd64",
+        "displayName": "Super Shell",
+        "name": "supershell",
+        "version": "1",
+        "location": "https://hub.docker.com/r/dorowu/admin/",
+        "type": "app"
     }
 ]
